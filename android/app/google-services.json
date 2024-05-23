@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "392267245616",
+    "project_id": "prjantoniapersistencia",
+    "storage_bucket": "prjantoniapersistencia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392267245616:android:4aca9b9ea101be203fe5f5",
+        "android_client_info": {
+          "package_name": "com.aula.firebase.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcK_CA7GVwRqAOUzfM4JZ65gDUiNPFtpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
